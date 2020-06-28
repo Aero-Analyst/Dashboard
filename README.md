@@ -1,4 +1,4 @@
-# Dashboard
+# Aero Analyst
 
 ### A visual Dashboard based on data analytics for percentage utilization of Airport facilities through interactive Airport facilities ike bar graphs, pie charts and scattered plots. Airport facilities include rest & relax, special assistance, Wi-Fi, parking, transportation and many more. 
 
